@@ -1,1 +1,2 @@
 Tody we are going to review to branching and merging
+If we still have time after that. Then we should consider rebasing.
